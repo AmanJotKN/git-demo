@@ -1,0 +1,138 @@
+
+Date 18th sept , 2024
+
+Git -Github 
+
+
+
+
+git = tool/software
+github = website 
+
+
+git - version controlling tool
+version ?
+
+
+project - ecommerce 
+
+
+
+functionality - fruits ,
+
+version 1 
+
++payment gateway 
+
+version 2
+
++chat support  (customer care)
+
+version 3
+
+- chatsupport 
+
+version 4
+
+
++ AI Chatbot
+
+version 5
+
+
+
+developer - 
+ecommerce project - 
+
+team - 3
+FE
+BE
+Testing
+
+FE - TEAM (3)
+fe 1
+fe 2
+fe 3
+
+BE - 2 TEAM
+BE 1
+BE 2
+
+Testing (manual testing and automation testing)
+testing-manual
+testing-automation 
+
+fe2-code-feature --> main fe code 
+
+line 105-code paste 
+
+
+US It CoMPANY
+
+FE+BE+Testing
+
+VERSION CONTROLLING TOOL - GIT 
+
+github website 
+
+
+
+step 1 - git download and git install
+git-software 
+
+assume - git installed 
+
+test - cmd -> git -v 
+
+
+step 2 - github website account create 
+
+assume- github account created 
+
+
+step 3 - system -<git configure 
+
+configure - system - git owner 
+
+
+
+2 ways -locally configure, globally configure
+
+locally- new project = mobile apps- local 
+
+globally - system - git owner me - system - mob , ds , songs , web dev -- 
+
+
+globally -
+
+commands 
+
+git config --global user.name "name"
+git config --global user.email "emailid"
+
+
+test- git config --list
+
+
+----------------------------------
+
+github 
+
+
+
+terms 
+1 Repo/Repository = new folder 
+2- commit - save 
+3- fork - complete CoMPANY
+4- branch ()
+
+
+    
+
+
+
+
+
+untracked file
+tracked file
+staging area
